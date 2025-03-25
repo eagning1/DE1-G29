@@ -1,0 +1,299 @@
+[
+    {
+        "workers": 1,
+        "data_fraction": 0.01,
+        "cores": 1,
+        "time": 168.71976566314697,
+        "sentiment_counts": {
+            "positive": 1109,
+            "negative": 787,
+            "neutral": 102
+        }
+    },
+    {
+        "workers": 1,
+        "data_fraction": 0.01,
+        "cores": 2,
+        "time": 157.0578315258026,
+        "sentiment_counts": {
+            "positive": 1109,
+            "negative": 787,
+            "neutral": 102
+        }
+    },
+    {
+        "workers": 1,
+        "data_fraction": 0.01,
+        "cores": 4,
+        "time": 152.26798629760742,
+        "sentiment_counts": {
+            "positive": 1109,
+            "negative": 787,
+            "neutral": 102
+        }
+    },
+    {
+        "workers": 1,
+        "data_fraction": 0.04,
+        "cores": 1,
+        "time": 160.43998527526855,
+        "sentiment_counts": {
+            "positive": 4497,
+            "negative": 3052,
+            "neutral": 434
+        }
+    },
+    {
+        "workers": 1,
+        "data_fraction": 0.04,
+        "cores": 2,
+        "time": 161.1295759677887,
+        "sentiment_counts": {
+            "positive": 4497,
+            "negative": 3052,
+            "neutral": 434
+        }
+    },
+    {
+        "workers": 1,
+        "data_fraction": 0.04,
+        "cores": 4,
+        "time": 155.0087025165558,
+        "sentiment_counts": {
+            "positive": 4497,
+            "negative": 3052,
+            "neutral": 434
+        }
+    },
+    {
+        "workers": 1,
+        "data_fraction": 0.08,
+        "cores": 1,
+        "time": 159.8917362689972,
+        "sentiment_counts": {
+            "positive": 9308,
+            "negative": 6224,
+            "neutral": 883
+        }
+    },
+    {
+        "workers": 1,
+        "data_fraction": 0.08,
+        "cores": 2,
+        "time": 158.3277611732483,
+        "sentiment_counts": {
+            "positive": 9308,
+            "negative": 6224,
+            "neutral": 883
+        }
+    },
+    {
+        "workers": 1,
+        "data_fraction": 0.08,
+        "cores": 4,
+        "time": 159.51414465904236,
+        "sentiment_counts": {
+            "positive": 9308,
+            "negative": 6224,
+            "neutral": 883
+        }
+    },
+    {
+        "workers": 2,
+        "data_fraction": 0.01,
+        "cores": 1,
+        "time": 154.23761868476868,
+        "sentiment_counts": {
+            "positive": 1109,
+            "negative": 787,
+            "neutral": 102
+        }
+    },
+    {
+        "workers": 2,
+        "data_fraction": 0.01,
+        "cores": 2,
+        "time": 154.77778601646423,
+        "sentiment_counts": {
+            "positive": 1109,
+            "negative": 787,
+            "neutral": 102
+        }
+    },
+    {
+        "workers": 2,
+        "data_fraction": 0.01,
+        "cores": 4,
+        "time": 154.21859622001648,
+        "sentiment_counts": {
+            "positive": 1109,
+            "negative": 787,
+            "neutral": 102
+        }
+    },
+    {
+        "workers": 2,
+        "data_fraction": 0.04,
+        "cores": 1,
+        "time": 156.59019446372986,
+        "sentiment_counts": {
+            "positive": 4497,
+            "negative": 3052,
+            "neutral": 434
+        }
+    },
+    {
+        "workers": 2,
+        "data_fraction": 0.04,
+        "cores": 2,
+        "time": 159.32027101516724,
+        "sentiment_counts": {
+            "positive": 4497,
+            "negative": 3052,
+            "neutral": 434
+        }
+    },
+    {
+        "workers": 2,
+        "data_fraction": 0.04,
+        "cores": 4,
+        "time": 156.02115631103516,
+        "sentiment_counts": {
+            "positive": 4497,
+            "negative": 3052,
+            "neutral": 434
+        }
+    },
+    {
+        "workers": 2,
+        "data_fraction": 0.08,
+        "cores": 1,
+        "time": 160.66381931304932,
+        "sentiment_counts": {
+            "positive": 9308,
+            "negative": 6224,
+            "neutral": 883
+        }
+    },
+    {
+        "workers": 2,
+        "data_fraction": 0.08,
+        "cores": 2,
+        "time": 161.6547827720642,
+        "sentiment_counts": {
+            "positive": 9308,
+            "negative": 6224,
+            "neutral": 883
+        }
+    },
+    {
+        "workers": 2,
+        "data_fraction": 0.08,
+        "cores": 4,
+        "time": 161.52149510383606,
+        "sentiment_counts": {
+            "positive": 9308,
+            "negative": 6224,
+            "neutral": 883
+        }
+    },
+    {
+        "workers": 4,
+        "data_fraction": 0.01,
+        "cores": 1,
+        "time": 153.28846168518066,
+        "sentiment_counts": {
+            "positive": 1109,
+            "negative": 787,
+            "neutral": 102
+        }
+    },
+    {
+        "workers": 4,
+        "data_fraction": 0.01,
+        "cores": 2,
+        "time": 151.98750615119934,
+        "sentiment_counts": {
+            "positive": 1109,
+            "negative": 787,
+            "neutral": 102
+        }
+    },
+    {
+        "workers": 4,
+        "data_fraction": 0.01,
+        "cores": 4,
+        "time": 156.8631579875946,
+        "sentiment_counts": {
+            "positive": 1109,
+            "negative": 787,
+            "neutral": 102
+        }
+    },
+    {
+        "workers": 4,
+        "data_fraction": 0.04,
+        "cores": 1,
+        "time": 154.2847182750702,
+        "sentiment_counts": {
+            "positive": 4497,
+            "negative": 3052,
+            "neutral": 434
+        }
+    },
+    {
+        "workers": 4,
+        "data_fraction": 0.04,
+        "cores": 2,
+        "time": 154.10356330871582,
+        "sentiment_counts": {
+            "positive": 4497,
+            "negative": 3052,
+            "neutral": 434
+        }
+    },
+    {
+        "workers": 4,
+        "data_fraction": 0.04,
+        "cores": 4,
+        "time": 158.7432382106781,
+        "sentiment_counts": {
+            "positive": 4475,
+            "negative": 3083,
+            "neutral": 425
+        }
+    },
+    {
+        "workers": 4,
+        "data_fraction": 0.08,
+        "cores": 1,
+        "time": 156.98512530326843,
+        "sentiment_counts": {
+            "positive": 9308,
+            "negative": 6224,
+            "neutral": 883
+        }
+    },
+    {
+        "workers": 4,
+        "data_fraction": 0.08,
+        "cores": 2,
+        "time": 157.2619707584381,
+        "sentiment_counts": {
+            "positive": 9308,
+            "negative": 6224,
+            "neutral": 883
+        }
+    },
+    {
+        "workers": 4,
+        "data_fraction": 0.08,
+        "cores": 4,
+        "time": 160.12701106071472,
+        "sentiment_counts": {
+            "positive": 9308,
+            "negative": 6224,
+            "neutral": 883
+        }
+    }
+]
